@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Undergraduate Transcript
+[Github Link](https://github.com/javier2828/certifications/blob/master/SSR_TSRPT_UN.pdf)
 
-You can use the [editor on GitHub](https://github.com/javier2828/certifications/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Certifications
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### F.E. Electrical & Computer
+[NCEES External Site](https://account.ncees.org/rn/2056186-1258349-dabe768)
 
-### Markdown
+### Solidworks Associate of Mechanical Design
+[Github Link](https://github.com/javier2828/certifications/blob/master/Certificate_C-FLU8TJPT62.pdf)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### CompTIA A+
+[Github Link](https://github.com/javier2828/certifications/blob/master/CompTIA%20A%2B%20ce%20certificate.pdf)
 
-```markdown
-Syntax highlighted code block
+### Autodesk Autocad Professional
+[Github Link](https://github.com/javier2828/certifications/blob/master/Cert59317113359.pdf)
 
-# Header 1
-## Header 2
-### Header 3
+### AFPA Personal Trainer
+[Github Link](https://github.com/javier2828/certifications/blob/master/personal%20trainer%20certificate.pdf)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/javier2828/certifications/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### NAUI Scuba Diver
+[Github Link](https://github.com/javier2828/certifications/blob/master/Digital%20Certification%20Card%20-%20B54RA24.pdf)
