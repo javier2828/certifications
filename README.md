@@ -1,3 +1,6 @@
+## Graduate Transcript
+[Github Link](https://github.com/javier2828/certifications/blob/master/umich_transcript.pdf)
+
 ## Undergraduate Transcript
 [Github Link](https://github.com/javier2828/certifications/blob/master/SSR_TSRPT_UN.pdf)
 
